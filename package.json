@@ -2,6 +2,8 @@
   "name": "react_todo_list_app",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/dBish6/React_Todo_List_App",
+  "homepage": "https://dbish6.github.io/Ideal_User_Authentication_Demos/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
